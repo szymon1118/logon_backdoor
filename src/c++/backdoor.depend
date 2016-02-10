@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1452890914 source:c:\users\oem\desktop\backdoor\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
+1452812649 source:c:\users\oem\desktop\backdoor\resource.rc
+	<windows.h>
+
